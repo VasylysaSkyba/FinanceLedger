@@ -51,6 +51,27 @@ img {
   box-sizing: border-box;
 }
 
+.header {
+  max-width: 1600px;
+  height: 768px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(181, 177, 185);
+  background-image: url(../images/desktop/bg-des.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.header-logo {
+  color: #fff;
+}
+.header-span{
+  color: #28A745;
+}
+.header-a {
+  color: #fff;
+}
 .footer {
   background: rgb(114, 110, 110);
 
